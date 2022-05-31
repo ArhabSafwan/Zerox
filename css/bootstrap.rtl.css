@@ -659,7 +659,7 @@ progress {
   }
 }
 .row {
-  --bs-gutter-x: 1.5rem;
+  --bs-gutter-x: 0;
   --bs-gutter-y: 0;
   display: flex;
   flex-wrap: wrap;
@@ -866,7 +866,7 @@ progress {
 
 .g-4,
 .gx-4 {
-  --bs-gutter-x: 1.5rem;
+  --bs-gutter-x: 0;
 }
 
 .g-4,
@@ -1079,7 +1079,7 @@ progress {
 
   .g-sm-4,
 .gx-sm-4 {
-    --bs-gutter-x: 1.5rem;
+    --bs-gutter-x: 0;
   }
 
   .g-sm-4,
@@ -1292,7 +1292,7 @@ progress {
 
   .g-md-4,
 .gx-md-4 {
-    --bs-gutter-x: 1.5rem;
+    --bs-gutter-x: 0;
   }
 
   .g-md-4,
@@ -1505,7 +1505,7 @@ progress {
 
   .g-lg-4,
 .gx-lg-4 {
-    --bs-gutter-x: 1.5rem;
+    --bs-gutter-x: 0;
   }
 
   .g-lg-4,
@@ -1718,7 +1718,7 @@ progress {
 
   .g-xl-4,
 .gx-xl-4 {
-    --bs-gutter-x: 1.5rem;
+    --bs-gutter-x: 0;
   }
 
   .g-xl-4,
@@ -1931,7 +1931,7 @@ progress {
 
   .g-xxl-4,
 .gx-xxl-4 {
-    --bs-gutter-x: 1.5rem;
+    --bs-gutter-x: 0;
   }
 
   .g-xxl-4,
